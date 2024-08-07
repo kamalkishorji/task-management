@@ -1,0 +1,39 @@
+.button-custom {
+  background-color:#2196f3 !important;
+  border-radius: 10px !important;
+  border-color: #2196f3 !important;
+  color: white !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  height: 40px;
+}
+
+.button-custom-light {
+  color:#2196f3 !important;
+  background-color: white !important;
+  border: 2px solid #2196f3 !important;
+  border-radius: 10px !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  height: 40px;
+}
+
+.button-custom-disabled {
+  color: #9E9E9E !important;
+  background-color: white !important;
+  border: 2px solid #9E9E9E !important;
+  border-radius: 10px !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  height: 40px;
+}
+
+.button-custom-delete {
+  color: white !important;
+  background-color: red !important;
+  border: 2px solid red !important;
+  border-radius: 10px !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  height: 40px;
+}
